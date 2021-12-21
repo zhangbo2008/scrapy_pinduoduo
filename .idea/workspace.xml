@@ -5,6 +5,9 @@
       <change afterPath="$PROJECT_DIR$/tutorial2/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tutorial2/spiders/items.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tutorial2/utilsme.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial2" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tutorial2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tutorial2/12312.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tutorial2/2.py" beforeDir="false" />
@@ -87,6 +90,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tutorial2" />
   </component>
   <component name="ProjectId" id="22X3NpyUBCt1g2ciwrwnmDQCghG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -182,7 +186,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639970177715</updated>
-      <workItem from="1639970178884" duration="10626000" />
+      <workItem from="1639970178884" duration="17679000" />
     </task>
     <servers />
   </component>
@@ -190,62 +194,77 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="643" y="94" key="#xdebugger.evaluate" timestamp="1640056687938">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="643" y="94" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1640056687937" />
+    <state width="693" height="466" key="DebuggerActiveHint" timestamp="1640056819791">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="693" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1640056819791" />
     <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1639982533163">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1639982533163" />
-    <state width="1237" height="234" key="GridCell.Tab.0.bottom" timestamp="1639991196374">
+    <state width="1237" height="288" key="GridCell.Tab.0.bottom" timestamp="1640059601853">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="234" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1639991196374" />
-    <state width="1237" height="234" key="GridCell.Tab.0.center" timestamp="1639991196374">
+    <state width="1237" height="288" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1640059601853" />
+    <state width="1237" height="288" key="GridCell.Tab.0.center" timestamp="1640059601852">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="234" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1639991196374" />
-    <state width="1237" height="234" key="GridCell.Tab.0.left" timestamp="1639991196374">
+    <state width="1237" height="288" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1640059601852" />
+    <state width="1237" height="288" key="GridCell.Tab.0.left" timestamp="1640059601852">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="234" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1639991196374" />
-    <state width="1237" height="234" key="GridCell.Tab.0.right" timestamp="1639991196374">
+    <state width="1237" height="288" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1640059601852" />
+    <state width="1237" height="288" key="GridCell.Tab.0.right" timestamp="1640059601853">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="234" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1639991196374" />
-    <state width="1237" height="186" key="GridCell.Tab.1.bottom" timestamp="1639988204015">
+    <state width="1237" height="288" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1640059601853" />
+    <state width="1237" height="186" key="GridCell.Tab.1.bottom" timestamp="1640059507245">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="186" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1639988204015" />
-    <state width="1237" height="186" key="GridCell.Tab.1.center" timestamp="1639988204014">
+    <state width="1237" height="186" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1640059507245" />
+    <state width="1237" height="186" key="GridCell.Tab.1.center" timestamp="1640059507245">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="186" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1639988204014" />
-    <state width="1237" height="186" key="GridCell.Tab.1.left" timestamp="1639988204014">
+    <state width="1237" height="186" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1640059507245" />
+    <state width="1237" height="186" key="GridCell.Tab.1.left" timestamp="1640059507245">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="186" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1639988204014" />
-    <state width="1237" height="186" key="GridCell.Tab.1.right" timestamp="1639988204015">
+    <state width="1237" height="186" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1640059507245" />
+    <state width="1237" height="186" key="GridCell.Tab.1.right" timestamp="1640059507245">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="186" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1639988204015" />
-    <state x="332" y="95" width="617" height="490" key="find.popup" timestamp="1639991873008">
+    <state width="1237" height="186" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1640059507245" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1640056874224">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="332" y="95" width="617" height="490" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1639991873008" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1640056874224" />
+    <state x="332" y="95" width="617" height="490" key="find.popup" timestamp="1640054808274">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="332" y="95" width="617" height="490" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1640054808274" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tutorial2/utilForLogin.py</url>
-          <line>123</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="selector.xpath('//span[@class=&quot;_1vQZeIX1&quot;]/span[@class=&quot;_15NyfC_w&quot;]/text()')" />
+        <watch expression="selector.xpath('//span[@class=&quot;_1vQZeIX1&quot;]')" />
+        <watch expression="selector.xpath('//title')" />
+        <watch expression="selector.xpath('//div[@id=&quot;main&quot;]')" />
+        <watch expression="tmp" />
+        <watch expression="a" />
+        <watch expression="selector.xpath('//span[@class=&quot;_1vQZeIX1&quot;]/span[@class=&quot;_15NyfC_w&quot;]/text()').extract()" language="Python" />
+        <watch expression="selector.xpath('//span[@class=&quot;_1vQZeIX1&quot;]/span[@class=&quot;_15NyfC_w&quot;]/text()').extract()" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/tutorial2$main.coverage" NAME="main Coverage Results" MODIFIED="1639970127602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial2" />
     <SUITE FILE_PATH="coverage/$.coverage" NAME="计算域名 Coverage Results" MODIFIED="1639986782759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial2" />
-    <SUITE FILE_PATH="coverage/$utilForLogin.coverage" NAME="utilForLogin Coverage Results" MODIFIED="1639987866108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial2" />
-    <SUITE FILE_PATH="coverage/pachong999$main.coverage" NAME="main Coverage Results" MODIFIED="1639991196368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial2" />
+    <SUITE FILE_PATH="coverage/$utilForLogin.coverage" NAME="utilForLogin Coverage Results" MODIFIED="1640059064562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial2" />
+    <SUITE FILE_PATH="coverage/pachong999$main.coverage" NAME="main Coverage Results" MODIFIED="1640059601843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial2" />
   </component>
 </project>
